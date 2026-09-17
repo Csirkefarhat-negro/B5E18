@@ -26,7 +26,7 @@ Content-Type: application/json
 ###
 
 ### 3. Eszköz módosítása
-PUT {{host}}/api/eszkozok/1
+PUT {{host}}/api/eszkozok/
 Content-Type: application/json
 
 {
